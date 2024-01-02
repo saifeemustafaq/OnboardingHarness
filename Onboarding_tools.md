@@ -73,4 +73,4 @@ Harness equips its team members, with a suite of technical tools designed to opt
 
 - Further details on tools like Go Links and Harness Hub are maintained within the organization and can be accessed through internal channels.
 
-This document serves as a guide for Harnessians to navigate and utilize the suite of tools provided. It is essential to reach out to the listed contact points for each tool for specialized assistance. The integration of these tools within Harness's ecosystem is pivotal to maintaining the company's efficiency and supporting the productivity of the team. Confidential © Harness Inc.
+This document serves as a guide for Harnessians to navigate and utilize the suite of tools provided. It is essential to reach out to the listed contact points for each tool for specialized assistance. The integration of these tools within Harness's ecosystem is pivotal to maintaining the company's efficiency and supporting the productivity of the team.
