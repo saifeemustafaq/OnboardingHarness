@@ -2,6 +2,8 @@
 
 Disclaimer: The example of Gametsu.io is a fictional scenario created for illustrative purposes. It serves to provide relatable context for developers and others in the industry, helping them to better understand the practical applications of the technologies and strategies discussed.
 
+Note: There's a glossary section at the end which covers any terms that you might be new to.
+
 In the dynamic world of online gaming, companies like Gametsu.io face unique challenges in delivering seamless, high-quality gaming experiences. Rapid development cycles, efficient deployment processes, and effective cost management are critical to staying ahead in this competitive market. This is where Continuous Integration (CI), Continuous Deployment (CD), and cloud cost management come into play, especially when leveraged through a platform like Harness. In this detailed exploration, we'll see how these methodologies can revolutionize Gametsu.io's service delivery process, ensuring reliability, efficiency, and a top-notch gaming experience for its users.
 
 ## Overview
@@ -47,3 +49,23 @@ Implementing Harness's CI/CD and cloud cost management solutions can profoundly 
 5. **Competitive Edge**: The agility and efficiency provided by Harness give Gametsu.io a competitive edge in the rapidly evolving online gaming market.
 
 In conclusion, the integration of Harness’s CI/CD and cloud cost management solutions offers a transformative potential for Gametsu.io. It not only streamlines the development and deployment processes but also optimizes cloud resource utilization, enhancing both operational efficiency and the gaming experience. In the competitive world of online gaming, this could very well be the game-changer that sets Gametsu.io apart from its rivals.
+
+## Definitions/Key Terminology/Technical Glossary
+
+| Term                    | Definition                                                                                                                                               |
+|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| CI (Continuous Integration) | A software development practice where developers regularly merge their code changes into a central repository, followed by automated builds and tests.    |
+| CD (Continuous Deployment)  | The process of automatically deploying software changes to a production environment after passing a series of tests. Ensures rapid and reliable software delivery. |
+| Cloud Cost Management   | Techniques and tools used to monitor, analyze, and manage the costs associated with cloud computing. Helps in optimizing resource utilization and controlling expenses. |
+| Harness.io              | A platform offering CI/CD tools and cloud cost management solutions, enabling automated workflows, deployment strategies, and cloud resource optimization. |
+| Development Pipeline    | The set of processes and tools that guide the software development lifecycle, including coding, building, testing, and deploying applications.            |
+| Canary Deployment       | A strategy where a new version of software is rolled out to a small subset of users to test its performance and stability before a full-scale deployment.   |
+| Blue-Green Deployment   | A deployment strategy that reduces downtime and risk by running two identical production environments, only one of which serves live production traffic at any given time. |
+| Real-time Monitoring    | The continuous and immediate tracking of a system's performance and operations, allowing quick detection and response to any issues.                     |
+| Automated Rollbacks     | The process of automatically reverting a system to a previous stable version in case of a failed deployment or detected issues.                           |
+| Operational Efficiency  | The ability to deliver products or services in a cost-effective manner without compromising quality.                                                     |
+| Scalability             | The capability of a system to handle a growing amount of work or its potential to accommodate growth.                                                    |
+| Resource Optimization   | The process of adjusting and allocating resources in the most efficient and effective way.                                                               |
+| Budgeting and Forecasting | The practice of planning future resource usage and costs, often using historical data to predict future needs.                                          |
+| Gaming Experience       | The overall quality and enjoyment a player derives from interacting with a video game.                                                                   |
+| Gametsu.io              | A fictional online gaming company used as an example in the blog to illustrate the application of CI/CD and cloud cost management in the gaming industry.  |
