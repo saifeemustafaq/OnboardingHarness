@@ -6,6 +6,22 @@ Then some tags and lines over here
 Can't miss this line, can we?
 #### Line7
 
+
+
+
+<details>
+<summary>January 12, 2024</summary>
+
+## today is 12th of December, and its a Friday.
+We will be doing some development
+
+<p>there are some task that need to be completed</p>
+
+### End of todays task
+We have no more task pending
+
+</details>
+
 <details>
 <summary>January 11, 2024</summary>
 
